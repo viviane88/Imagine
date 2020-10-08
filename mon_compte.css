@@ -1,0 +1,53 @@
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+max-width: 1200px;
+margin: auto;
+}
+a{
+    color: black;
+}
+h1{
+text-align: center;
+margin-top: 100px;
+}
+a.ancre{
+    font-size: 28px;
+    position: relative;
+    color: #17A4BA;
+    margin-left: 35px;
+  
+}
+.initiation{
+margin-top: 150px;
+padding: 50px;
+}
+.mon_compte{
+background-color: white;
+border: solid 1px grey;
+width: 400px;
+height: 350px;
+padding: 80px;
+margin-top: 20px;
+}
+.inscription{
+background-color: lightgray;
+border: solid 1px grey;
+width: 400px;
+height: 350px;
+padding: 80px;
+text-align: center;
+margin-left: 200px;
+margin-top: 20px;
+}
+.form{
+    color: white;
+    font-size: 25px;
+    border: solid 1px white;
+    padding: 20px;
+   
+}
+a:hover{
+background-color:white;
+color: grey;
+text-decoration: none;
+}
